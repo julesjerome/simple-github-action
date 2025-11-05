@@ -1,1 +1,1 @@
-console.log("🚀 GitHub Actions pipeline is running successfully!");
+console.log("GitHub Actions pipeline is running successfully!");
